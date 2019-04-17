@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "mdx-deck": "^2.2.1",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  }
+}
